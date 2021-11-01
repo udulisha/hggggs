@@ -1,0 +1,33 @@
+header{
+    background-color: gray;
+    color: aliceblue;
+    text-align: center;
+    padding: 30px;
+    font-size: 40px;
+}
+nav{
+    float: left;
+    width: 30%;
+    height: 320px;
+    background-color:burlywood;
+    padding: 25px;
+}
+
+nav ul{
+    list-style-type: none;
+    padding: 0px;
+}
+
+article{
+    float: left;
+    padding: 20px;
+    width: 60%;
+    height: 320px;
+}
+footer{
+    clear: both;
+    background-color: gray;
+    padding: 15px;
+    text-align: center;
+    color: cornsilk;
+}
